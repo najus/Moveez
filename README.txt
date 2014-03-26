@@ -6,3 +6,5 @@ Database Set : Use Mysql. Just run MovieCrud.sql in mysql terminal.
 
 Change database connection setting in web-inf/conf.properties
 
+/****Testing******/
+
